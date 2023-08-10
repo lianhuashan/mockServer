@@ -2,7 +2,7 @@
   "OS": "macOS",
   "platform": "desktop",
   "deviceInfo": "macOS_desktop",
-  "httpReferer": "https%3A%2F%2Fweread.qq.com%2Fweb%2Fcategory%2Frising",
+  "httpReferer": "https%3A%2F%2Fweread.qq.com%2Fweb%2Fcategory%2Fall",
   "error": null,
   "user": {
     "skey": "",
@@ -15,9 +15,9 @@
   "isFooterShown": false,
   "isShelfFullShown": false,
   "pageName": "nd_wrwebnjlogic_bookDetail_index",
-  "pageTitle": "金钱心理学：财富、人性和幸福的永恒真相-摩根·豪泽尔-微信读书",
-  "pageKeywords": "金钱心理学：财富、人性和幸福的永恒真相,摩根·豪泽尔,心理-积极心理学,免费小说,民主与建设出版社",
-  "pageDescription": "你和金钱的关系，决定了财富和你的距离！更适合普通上班族的《纳瓦尔宝典》。  人们总把投资理财当作一门硬科学，却忽略了心理因素在其中的重要作用。实际上，理财行为并非仅依靠冷冰冰的数字和公式，很多时候会受到你的情绪、喜好、立场和很多意料外的因素影响。因此，致富和守富的关键并不在于懂得多少知识，总结了多少规律，而常常在于如何克服人性的弱点，认清事物运作的本质。      摩根·豪泽尔从心理角度入手，在本书中分享了18条一针见血的理财智慧。如果你是理财新手，你会接受一堂朴素、简明却能令你受用终生的理财课，先人一步实现财务自由。如果你是投资老手，本书也会帮你查缺补漏，返璞归真，守护好来之不易的财富。在风云变幻的投资理财领域，有些道理亘古不变，无论何时都能帮你实现财富的稳定增长。只有发现它们，把握它们，你才能在起伏不定的经济形势下实现长久的富足与幸福。",
+  "pageTitle": "杀死一只知更鸟（同名电影原著）-哈珀·李-微信读书",
+  "pageKeywords": "杀死一只知更鸟（同名电影原著）,哈珀·李,精品小说-影视原著,免费小说,译林出版社",
+  "pageDescription": "《杀死一只知更鸟》的故事发生在大萧条时期美国南方一个静谧的小镇，几桩离奇的疑案彻底打破了几个孩子平静的生活：事件的真凶，怪人的谜底，传言背后的真相……在父亲的指引下，他们在迷雾中寻找真知，在磨难中历练风度，在不公平中积累正气，经历了暴风骤雨般的成长，也感受了人间的温暖与真情。",
   "pageBodyClass": "wr_macOS wr_Desktop wr_page_reader",
   "customReaderStyle": "",
   "environment": "production",
@@ -30,29 +30,31 @@
       "name": ""
     },
     "reader": {
-      "bookId": "22720323",
+      "bookId": "424018",
       "bookInfo": {
-        "bookId": "22720323",
-        "title": "金钱心理学：财富、人性和幸福的永恒真相",
-        "author": "摩根·豪泽尔",
-        "cover": "https:\u002F\u002Frescdn.qqmail.com\u002Fweread\u002Fcover\u002F232\u002F23027232\u002Fs_23027232.jpg",
+        "bookId": "424018",
+        "title": "杀死一只知更鸟（同名电影原著）",
+        "author": "哈珀·李",
+        "cover": "https:\u002F\u002Fwfqqreader-1252317822.image.myqcloud.com\u002Fcover\u002F820\u002F24240820\u002Fs_24240820.jpg",
         "format": "epub",
-        "price": 29.99,
-        "updateTime": 1581713053,
-        "publisher": "江苏凤凰文艺出版社",
-        "star": 63,
-        "ratingCount": 2387
+        "price": 39.99,
+        "updateTime": 1553191775,
+        "intro": "知名学者和传记作家乔纳森·贝特纵横两千余年，概述了每一种文学体裁，为英格兰文学做出了动人的简介。他的关注点极其广泛，从小说的诞生和英格兰喜剧的精彩绝伦之处一直论到田园诗深处的英格兰特性和英国诺贝尔文学奖获得者的种族多样性。这部小书还不乏深入的文本分析，包括《李尔王》中一个重要场景的细读、卡罗尔·安·达菲一首战争诗的剖析，以及文学文本由作者转向读者的过程中发生的改变。",
+        "chapterSize": 21,
+        "publisher": "译林出版社",
+        "star": 60,
+        "ratingCount": 82
       }
     }
   },
   "route": {
-    "path": "\u002Fweb\u002FbookDetail\u002F6ab326d0813ab7f97g014662",
+    "path": "\u002Fweb\u002FbookDetail\u002F57e324b05d047c57ebe463e",
     "hash": "",
     "query": {},
     "params": {
-      "infoId": "6ab326d0813ab7f97g014662"
+      "infoId": "57e324b05d047c57ebe463e"
     },
-    "fullPath": "\u002Fweb\u002FbookDetail\u002F6ab326d0813ab7f97g014662",
+    "fullPath": "\u002Fweb\u002FbookDetail\u002F57e324b05d047c57ebe463e",
     "meta": {},
     "from": {
       "name": null,
@@ -65,67 +67,68 @@
     }
   },
   "reader": {
-    "infoId": "6ab326d0813ab7f97g014662",
-    "bookId": "3300064234",
+    "infoId": "57e324b05d047c57ebe463e",
+    "bookId": "853116",
     "isBookInfoError": false,
     "bookInfo": {
-      "bookId": "3300064234",
-      "title": "金钱心理学：财富、人性和幸福的永恒真相",
-      "author": "摩根·豪泽尔",
-      "translator": "李青宗",
-      "cover": "https:\u002F\u002Fweread-1258476243.file.myqcloud.com\u002Fweread\u002Fcover\u002F84\u002Fcpplatform_5w7t185qhfj9qfxdrrfytz\u002Fs_cpplatform_5w7t185qhfj9qfxdrrfytz1689561935.jpg",
-      "version": 25931430,
+      "bookId": "853116",
+      "title": "杀死一只知更鸟（同名电影原著）",
+      "author": "哈珀·李",
+      "translator": "李育超",
+      "cover": "https:\u002F\u002Fweread-1258476243.file.myqcloud.com\u002Fweread\u002Fcover\u002F32\u002FYueWen_853116\u002Fs_YueWen_853116.jpg",
+      "version": 2087267340,
       "format": "epub",
       "type": 0,
-      "price": 33.6,
+      "price": 29.99,
       "originalPrice": 0,
       "soldout": 0,
       "bookStatus": 1,
       "payType": 4097,
-      "intro": "你和金钱的关系，决定了财富和你的距离！更适合普通上班族的《纳瓦尔宝典》。  人们总把投资理财当作一门硬科学，却忽略了心理因素在其中的重要作用。实际上，理财行为并非仅依靠冷冰冰的数字和公式，很多时候会受到你的情绪、喜好、立场和很多意料外的因素影响。因此，致富和守富的关键并不在于懂得多少知识，总结了多少规律，而常常在于如何克服人性的弱点，认清事物运作的本质。      摩根·豪泽尔从心理角度入手，在本书中分享了18条一针见血的理财智慧。如果你是理财新手，你会接受一堂朴素、简明却能令你受用终生的理财课，先人一步实现财务自由。如果你是投资老手，本书也会帮你查缺补漏，返璞归真，守护好来之不易的财富。在风云变幻的投资理财领域，有些道理亘古不变，无论何时都能帮你实现财富的稳定增长。只有发现它们，把握它们，你才能在起伏不定的经济形势下实现长久的富足与幸福。",
-      "centPrice": 3360,
+      "intro": "《杀死一只知更鸟》的故事发生在大萧条时期美国南方一个静谧的小镇，几桩离奇的疑案彻底打破了几个孩子平静的生活：事件的真凶，怪人的谜底，传言背后的真相……在父亲的指引下，他们在迷雾中寻找真知，在磨难中历练风度，在不公平中积累正气，经历了暴风骤雨般的成长，也感受了人间的温暖与真情。",
+      "centPrice": 2999,
       "finished": 1,
       "maxFreeChapter": 7,
       "free": 0,
       "mcardDiscount": 0,
       "ispub": 1,
       "extra_type": 5,
-      "cpid": 9555120,
-      "publishTime": "2023-07-14 00:00:00",
-      "category": "心理-积极心理学",
+      "cpid": 13583905,
+      "publishTime": "2017-02-01 00:00:00",
+      "category": "精品小说-影视原著",
       "categories": [
         {
-          "categoryId": 800000,
-          "subCategoryId": 800001,
+          "categoryId": 100000,
+          "subCategoryId": 100012,
           "categoryType": 0,
-          "title": "心理-积极心理学"
+          "title": "精品小说-影视原著"
         },
         {
-          "categoryId": 1000000,
-          "subCategoryId": 1000003,
+          "categoryId": 300000,
+          "subCategoryId": 300014,
           "categoryType": 0,
-          "title": "个人成长-情绪心灵"
+          "title": "文学-世界名著"
         }
       ],
-      "hasLecture": 0,
-      "lastChapterIdx": 27,
+      "hasLecture": 1,
+      "lPushName": "愿你克服偏见 愿你一往无前",
+      "lastChapterIdx": 36,
       "paperBook": {
-        "skuId": ""
+        "skuId": "12037351"
       },
       "blockSaveImg": 0,
-      "language": "zh-cn",
+      "language": "zh-CN",
       "hideUpdateTime": false,
       "payingStatus": 1,
-      "chapterSize": 27,
-      "updateTime": 1689564873,
-      "onTime": 1689561940,
-      "lastChapterCreateTime": 1689561939,
+      "chapterSize": 36,
+      "updateTime": 1682275204,
+      "onTime": 1489474883,
+      "lastChapterCreateTime": 1682275204,
       "unitPrice": 0,
       "marketType": 0,
-      "isbn": "9787513941242",
-      "publisher": "民主与建设出版社",
-      "totalWords": 112829,
-      "bookSize": 453276,
+      "isbn": "9787544766500",
+      "publisher": "译林出版社",
+      "totalWords": 213520,
+      "bookSize": 1222966,
       "shouldHideTTS": 0,
       "recommended": 0,
       "lectureRecommended": 0,
@@ -143,178 +146,182 @@
       "isChapterPaid": 0,
       "showLectureButton": 1,
       "wxtts": 1,
-      "ratingCount": 70,
+      "relatedBookIds": [
+        "827427"
+      ],
+      "star": 92,
+      "ratingCount": 89263,
       "ratingDetail": {
-        "one": 4,
-        "two": 0,
-        "three": 6,
-        "four": 0,
-        "five": 60,
-        "recent": 64
+        "one": 784,
+        "two": 174,
+        "three": 2151,
+        "four": 7297,
+        "five": 77649,
+        "recent": 1499
       },
-      "newRating": 864,
-      "newRatingCount": 66,
+      "newRating": 919,
+      "newRatingCount": 81049,
       "newRatingDetail": {
-        "good": 57,
-        "fair": 6,
-        "poor": 3,
-        "recent": 60,
+        "good": 74509,
+        "fair": 5980,
+        "poor": 560,
+        "recent": 1454,
         "myRating": "",
-        "title": ""
+        "title": "神作"
       },
       "ranklist": {
-        "seq": 1,
-        "categoryId": "rising",
-        "categoryName": "飙升·出版",
+        "seq": 7,
+        "categoryId": "all",
+        "categoryName": "总榜",
         "storeSubType": 0,
-        "scheme": "weread:\u002F\u002Franklist?categoryId=rising&subtype=0&initialBookId=3300064234&seq=1&newList=1",
+        "scheme": "weread:\u002F\u002Franklist?categoryId=all&subtype=0&initialBookId=853116&seq=7&newList=1",
         "ranklistCover": {
-          "tinycode": "https:\u002F\u002Frescdn.qqmail.com\u002Fweread\u002Fcover\u002Franklist.rising.tinycode.tJRmjwHWQF.png",
-          "chart_title": "https:\u002F\u002Fweread-1258476243.file.myqcloud.com\u002Fassets\u002Franklist.rising.chart_title.YqPFOS9Gin.png",
-          "chart_detail_title": "https:\u002F\u002Fweread-1258476243.file.myqcloud.com\u002Fassets\u002Franklist.rising.chart_detail_title.iNVjmWJJc0.png",
-          "chart_detail_title_dark": "https:\u002F\u002Fweread-1258476243.file.myqcloud.com\u002Fassets\u002Franklist.rising.chart_detail_title_dark.sxL3mZZF3c.png",
-          "chart_share_title": "https:\u002F\u002Fweread-1258476243.file.myqcloud.com\u002Fassets\u002Franklist.rising.chart_share_title.OOPtSovt76.png",
-          "chart_share_logo": "https:\u002F\u002Frescdn.qqmail.com\u002Fweread\u002Fcover\u002Franklist.rising.chart_share_logo.NFf6X5XxQl.png",
-          "chart_book_detial_icon": "https:\u002F\u002Fweread-1258476243.file.myqcloud.com\u002Fassets\u002Franklist.rising.chart_book_detial_icon.suAApPHCRI.png",
-          "chart_tag": "https:\u002F\u002Fweread-1258476243.file.myqcloud.com\u002Fassets\u002Franklist.rising.chart_tag.Z1lQGZcYuj.png",
-          "eink_chart_title": "https:\u002F\u002Fweread-1258476243.file.myqcloud.com\u002Fassets\u002Franklist.rising.eink_chart_title.g9cGWpSMW5.png",
-          "chart_title_main": "https:\u002F\u002Fweread-1258476243.file.myqcloud.com\u002Fassets\u002Franklist.rising.chart_title_main.Nck47sFyG5.png",
-          "chart_detail_title_main": "https:\u002F\u002Fweread-1258476243.file.myqcloud.com\u002Fassets\u002Franklist.rising.chart_detail_title_main.4GJmQw3t2q.png",
-          "chart_detail_title_dark_main": "https:\u002F\u002Fweread-1258476243.file.myqcloud.com\u002Fassets\u002Franklist.rising.chart_detail_title_dark_main.4eIj3YkpSE.png",
-          "chart_background_color_1": "#FF3D3E",
-          "chart_background_color_2": "#FF4593",
+          "tinycode": "https:\u002F\u002Frescdn.qqmail.com\u002Fweread\u002Fcover\u002Franklist.all.tinycode.8A3kIWv1MX.png",
+          "chart_title": "https:\u002F\u002Fweread-1258476243.file.myqcloud.com\u002Fassets\u002Franklist.all.chart_title.JPnYFfuPbm.png",
+          "chart_detail_title": "https:\u002F\u002Fweread-1258476243.file.myqcloud.com\u002Fassets\u002Franklist.all.chart_detail_title.sMh65ixe9l.png",
+          "chart_detail_title_dark": "https:\u002F\u002Fweread-1258476243.file.myqcloud.com\u002Fassets\u002Franklist.all.chart_detail_title_dark.2ky4HSJU3V.png",
+          "chart_share_title": "https:\u002F\u002Frescdn.qqmail.com\u002Fweread\u002Fcover\u002Franklist.all.chart_share_title.hqPEOLVffW.png",
+          "chart_share_logo": "https:\u002F\u002Frescdn.qqmail.com\u002Fweread\u002Fcover\u002Franklist.all.chart_share_logo.8DDUxHqsiv.png",
+          "chart_book_detial_icon": "https:\u002F\u002Frescdn.qqmail.com\u002Fweread\u002Fcover\u002Franklist.all.chart_book_detial_icon.6tpmPfmz6F.png",
+          "chart_tag": "https:\u002F\u002Fweread-1258476243.file.myqcloud.com\u002Fassets\u002Franklist.all.chart_tag.10XdZh6eUV.png",
+          "eink_chart_title": "https:\u002F\u002Fweread-1258476243.file.myqcloud.com\u002Fassets\u002Franklist.all.eink_chart_title.JVKRmQ5WCg.png",
+          "chart_title_main": "https:\u002F\u002Fweread-1258476243.file.myqcloud.com\u002Fassets\u002Franklist.all.chart_title_main.5y2PAdJQdr.png",
+          "chart_detail_title_main": "https:\u002F\u002Fweread-1258476243.file.myqcloud.com\u002Fassets\u002Franklist.all.chart_detail_title_main.VC1GJeqgCf.png",
+          "chart_detail_title_dark_main": "https:\u002F\u002Fweread-1258476243.file.myqcloud.com\u002Fassets\u002Franklist.all.chart_detail_title_dark_main.r45lFTyRNo.png",
+          "chart_background_color_1": "#34A7FF",
+          "chart_background_color_2": "#39CFFF",
           "chart_title_height": 96,
-          "chart_title_width": 612,
-          "desc": "微信读书用户近期热读的出版书"
+          "chart_title_width": 471,
+          "desc": "微信读书用户最喜爱的出版书"
         }
       },
       "copyrightInfo": {
-        "id": 9555120,
-        "name": "后浪出版公司",
-        "userVid": 23226616,
+        "id": 13583905,
+        "name": "译林出版社",
+        "userVid": 309077157,
         "role": 2,
-        "avatar": "https:\u002F\u002Fres.weread.qq.com\u002Fwravatar\u002FWV0015-7hbK6oL7QSMtw8Kd331jea7\u002F0"
+        "avatar": "https:\u002F\u002Fres.weread.qq.com\u002Fwravatar\u002FWV0005-rwrp4saObgIoKDplFQQBfa8\u002F0"
       },
       "authorSeg": [
         {
-          "words": "摩根·豪泽尔",
+          "words": "哈珀·李",
           "highlight": 1,
-          "authorId": "2325820"
+          "authorId": "211996"
         }
       ],
       "translatorSeg": [
         {
-          "words": "李青宗",
+          "words": "李育超",
           "highlight": 1,
-          "authorId": "2331457"
+          "authorId": "752926"
         }
       ],
       "coverBoxInfo": {
-        "blurhash": "KZRUv}kCuicXafa0cEaya0",
+        "blurhash": "K3ATG^=e0y-pE$a0DNFdPB",
         "colors": [
           {
             "key": "6\u002F4",
-            "hex": "#ab8f66"
+            "hex": "#8d9594"
           },
           {
             "key": "4\u002F4",
-            "hex": "#775b35"
+            "hex": "#5b6161"
           },
           {
             "key": "3\u002F4",
-            "hex": "#5c4321"
+            "hex": "#434949"
           },
           {
             "key": "3\u002F6",
-            "hex": "#624106"
+            "hex": "#434949"
           },
           {
             "key": "3\u002F8",
-            "hex": "#664000"
+            "hex": "#434949"
           },
           {
             "key": "2\u002F4",
-            "hex": "#432c0b"
+            "hex": "#2d3232"
           },
           {
             "key": "2\u002F6",
-            "hex": "#492a00"
+            "hex": "#2d3232"
           },
           {
             "key": "2\u002F8",
-            "hex": "#4d2800"
+            "hex": "#2d3232"
           },
           {
             "key": "1\u002F4",
-            "hex": "#301600"
+            "hex": "#181d1e"
           },
           {
             "key": "1\u002F6",
-            "hex": "#371200"
+            "hex": "#181d1e"
           },
           {
             "key": "1\u002F8",
-            "hex": "#3e0d00"
+            "hex": "#181d1e"
           },
           {
             "key": "6\u002F6",
-            "hex": "#b48d4e"
+            "hex": "#8d9594"
           },
           {
             "key": "4\u002F6",
-            "hex": "#7d5a1f"
+            "hex": "#5b6161"
           },
           {
             "key": "9\u002F2",
-            "hex": "#f1e1c7"
+            "hex": "#dce5e4"
           },
           {
             "key": "4\u002F10",
-            "hex": "#865700"
+            "hex": "#5b6161"
           },
           {
             "key": "5\u002F10",
-            "hex": "#a37000"
+            "hex": "#747b7b"
           },
           {
             "key": "5\u002F4",
-            "hex": "#91754d"
+            "hex": "#747b7b"
           },
           {
             "key": "8\u002F4",
-            "hex": "#e0c497"
+            "hex": "#c1cac9"
           },
           {
             "key": "5\u002F8",
-            "hex": "#9f7118"
+            "hex": "#747b7b"
           },
           {
             "key": "6\u002F8",
-            "hex": "#bb8b33"
+            "hex": "#8d9594"
           },
           {
             "key": "8\u002F6",
-            "hex": "#eac27f"
+            "hex": "#c1cac9"
           },
           {
             "key": "7\u002F8",
-            "hex": "#d7a54e"
+            "hex": "#a7afae"
           },
           {
             "key": "3\u002F12",
-            "hex": "#6f3c00"
+            "hex": "#434949"
           },
           {
             "key": "9\u002F12",
-            "hex": "#ffd842"
+            "hex": "#dce5e4"
           },
           {
             "key": "1\u002F100",
-            "hex": "#bb8b33"
+            "hex": "#8d9594"
           },
           {
             "key": "2\u002F100",
-            "hex": "#d7a54e"
+            "hex": "#a7afae"
           },
           {
             "key": "3\u002F100",
@@ -322,27 +329,27 @@
           },
           {
             "key": "4\u002F100",
-            "hex": "#F3EDE5"
+            "hex": "#EEEEEE"
           },
           {
             "key": "5\u002F100",
-            "hex": "#F3EDE5"
+            "hex": "#EEEEEE"
           },
           {
             "key": "6\u002F100",
-            "hex": "#271300"
+            "hex": "#000000"
           }
         ],
         "dominate_color": {
-          "hex": "#efd5aa",
+          "hex": "#444a4a",
           "hsv": [
-            37.237842235936775,
-            28.792330001877858,
-            93.87442151605566
+            181.33639889141867,
+            7.935147316160013,
+            28.911671346599928
           ]
         },
-        "custom_cover": "https:\u002F\u002Fweread-1258476243.file.myqcloud.com\u002Fbookalphacover\u002F234\u002F3300064234\u002Fs_3300064234.jpg",
-        "custom_rec_cover": "https:\u002F\u002Fweread-1258476243.file.myqcloud.com\u002Fbookreccover\u002F234\u002F3300064234\u002Fs_3300064234.jpg"
+        "custom_cover": "https:\u002F\u002Fweread-1258476243.file.myqcloud.com\u002Fbookalphacover\u002F116\u002F853116\u002Fs_853116.jpg",
+        "custom_rec_cover": "https:\u002F\u002Fweread-1258476243.file.myqcloud.com\u002Fbookreccover\u002F116\u002F853116\u002Fs_853116.jpg"
       }
     },
     "isInShelf": false,
@@ -350,293 +357,392 @@
     "infiniteInfo": {},
     "activeInfiniteInfo": {},
     "readingStat": {
-      "readingCount": 6352
+      "readingCount": 1166471
     },
     "chapterInfos": [
       {
-        "chapterUid": 2,
+        "chapterUid": 35,
         "chapterIdx": 2,
         "title": "版权信息",
         "paid": 0,
         "price": 0,
         "level": 1,
-        "updateTime": 1689564873,
-        "wordCount": 148,
+        "updateTime": 1682275204,
+        "wordCount": 153,
         "anchors": []
       },
       {
-        "chapterUid": 3,
+        "chapterUid": 36,
         "chapterIdx": 3,
         "title": "献词",
         "paid": 0,
         "price": 0,
         "level": 1,
-        "updateTime": 1689561939,
-        "wordCount": 66,
+        "updateTime": 1682275204,
+        "wordCount": 33,
         "anchors": []
       },
       {
-        "chapterUid": 4,
+        "chapterUid": 37,
         "chapterIdx": 4,
-        "title": "格言",
+        "title": "第一部",
         "paid": 0,
         "price": 0,
         "level": 1,
-        "updateTime": 1689561939,
-        "wordCount": 97,
+        "updateTime": 1682275204,
+        "wordCount": 3,
         "anchors": []
       },
       {
-        "chapterUid": 5,
+        "chapterUid": 38,
         "chapterIdx": 5,
-        "title": "序言 地球上最伟大的表演",
+        "title": "第一章",
         "paid": 0,
         "price": 0,
-        "level": 1,
-        "updateTime": 1689561939,
-        "wordCount": 4401,
+        "level": 2,
+        "updateTime": 1682275204,
+        "wordCount": 9942,
         "anchors": []
       },
       {
-        "chapterUid": 6,
+        "chapterUid": 39,
         "chapterIdx": 6,
-        "title": "第1章 没有人真的对钱失去理智",
+        "title": "第二章",
         "paid": 0,
         "price": 0,
-        "level": 1,
-        "updateTime": 1689561939,
-        "wordCount": 6396,
+        "level": 2,
+        "updateTime": 1682275204,
+        "wordCount": 5618,
         "anchors": []
       },
       {
-        "chapterUid": 7,
+        "chapterUid": 40,
         "chapterIdx": 7,
-        "title": "第2章 运气与风险",
+        "title": "第三章",
         "paid": 0,
         "price": 0,
-        "level": 1,
-        "updateTime": 1689561939,
-        "wordCount": 6603,
+        "level": 2,
+        "updateTime": 1682275204,
+        "wordCount": 7551,
         "anchors": []
       },
       {
-        "chapterUid": 8,
+        "chapterUid": 41,
         "chapterIdx": 8,
-        "title": "第3章 永不知足",
+        "title": "第四章",
         "paid": 0,
         "price": -1,
-        "level": 1,
-        "updateTime": 1689561939,
-        "wordCount": 4241,
+        "level": 2,
+        "updateTime": 1682275204,
+        "wordCount": 7041,
         "anchors": []
       },
       {
-        "chapterUid": 9,
+        "chapterUid": 42,
         "chapterIdx": 9,
-        "title": "第4章 复利之谜",
+        "title": "第五章",
         "paid": 0,
         "price": -1,
-        "level": 1,
-        "updateTime": 1689561939,
-        "wordCount": 4224,
+        "level": 2,
+        "updateTime": 1682275204,
+        "wordCount": 6788,
         "anchors": []
       },
       {
-        "chapterUid": 10,
+        "chapterUid": 43,
         "chapterIdx": 10,
-        "title": "第5章 致富vs.守富",
+        "title": "第六章",
         "paid": 0,
         "price": -1,
-        "level": 1,
-        "updateTime": 1689561939,
-        "wordCount": 5780,
+        "level": 2,
+        "updateTime": 1682275204,
+        "wordCount": 6151,
         "anchors": []
       },
       {
-        "chapterUid": 11,
+        "chapterUid": 44,
         "chapterIdx": 11,
-        "title": "第6章 尾部的胜利",
+        "title": "第七章",
         "paid": 0,
         "price": -1,
-        "level": 1,
-        "updateTime": 1689561939,
-        "wordCount": 6472,
+        "level": 2,
+        "updateTime": 1682275204,
+        "wordCount": 4338,
         "anchors": []
       },
       {
-        "chapterUid": 12,
+        "chapterUid": 45,
         "chapterIdx": 12,
-        "title": "第7章 自由",
+        "title": "第八章",
         "paid": 0,
         "price": -1,
-        "level": 1,
-        "updateTime": 1689561939,
-        "wordCount": 4294,
+        "level": 2,
+        "updateTime": 1682275204,
+        "wordCount": 8294,
         "anchors": []
       },
       {
-        "chapterUid": 13,
+        "chapterUid": 46,
         "chapterIdx": 13,
-        "title": "第8章 豪车悖论",
+        "title": "第九章",
         "paid": 0,
         "price": -1,
-        "level": 1,
-        "updateTime": 1689561939,
-        "wordCount": 1049,
+        "level": 2,
+        "updateTime": 1682275204,
+        "wordCount": 11628,
         "anchors": []
       },
       {
-        "chapterUid": 14,
+        "chapterUid": 47,
         "chapterIdx": 14,
-        "title": "第9章 财富是你看不见的那些",
+        "title": "第十章",
         "paid": 0,
         "price": -1,
-        "level": 1,
-        "updateTime": 1689561939,
-        "wordCount": 2540,
+        "level": 2,
+        "updateTime": 1682275204,
+        "wordCount": 7537,
         "anchors": []
       },
       {
-        "chapterUid": 15,
+        "chapterUid": 48,
         "chapterIdx": 15,
-        "title": "第10章 存钱",
+        "title": "第十一章",
         "paid": 0,
         "price": -1,
-        "level": 1,
-        "updateTime": 1689561939,
-        "wordCount": 4007,
+        "level": 2,
+        "updateTime": 1682275204,
+        "wordCount": 10557,
         "anchors": []
       },
       {
-        "chapterUid": 16,
+        "chapterUid": 49,
         "chapterIdx": 16,
-        "title": "第11章 合乎情理胜过绝对理性",
+        "title": "第二部",
         "paid": 0,
         "price": -1,
         "level": 1,
-        "updateTime": 1689561939,
-        "wordCount": 4907,
+        "updateTime": 1682275204,
+        "wordCount": 3,
         "anchors": []
       },
       {
-        "chapterUid": 17,
+        "chapterUid": 50,
         "chapterIdx": 17,
-        "title": "第12章 意外！",
+        "title": "第十二章",
         "paid": 0,
         "price": -1,
-        "level": 1,
-        "updateTime": 1689561939,
-        "wordCount": 6496,
+        "level": 2,
+        "updateTime": 1682275204,
+        "wordCount": 9220,
         "anchors": []
       },
       {
-        "chapterUid": 18,
+        "chapterUid": 51,
         "chapterIdx": 18,
-        "title": "第13章 容错空间",
+        "title": "第十三章",
         "paid": 0,
         "price": -1,
-        "level": 1,
-        "updateTime": 1689561939,
-        "wordCount": 6031,
+        "level": 2,
+        "updateTime": 1682275204,
+        "wordCount": 6368,
         "anchors": []
       },
       {
-        "chapterUid": 19,
+        "chapterUid": 52,
         "chapterIdx": 19,
-        "title": "第14章 人是会变的",
+        "title": "第十四章",
         "paid": 0,
         "price": -1,
-        "level": 1,
-        "updateTime": 1689561939,
-        "wordCount": 3403,
+        "level": 2,
+        "updateTime": 1682275204,
+        "wordCount": 7663,
         "anchors": []
       },
       {
-        "chapterUid": 20,
+        "chapterUid": 53,
         "chapterIdx": 20,
-        "title": "第15章 世上没有免费的午餐",
+        "title": "第十五章",
         "paid": 0,
         "price": -1,
-        "level": 1,
-        "updateTime": 1689561939,
-        "wordCount": 4435,
+        "level": 2,
+        "updateTime": 1682275204,
+        "wordCount": 8856,
         "anchors": []
       },
       {
-        "chapterUid": 21,
+        "chapterUid": 54,
         "chapterIdx": 21,
-        "title": "第16章 每个人的情况不同",
+        "title": "第十六章",
         "paid": 0,
         "price": -1,
-        "level": 1,
-        "updateTime": 1689561939,
-        "wordCount": 4615,
+        "level": 2,
+        "updateTime": 1682275204,
+        "wordCount": 8328,
         "anchors": []
       },
       {
-        "chapterUid": 22,
+        "chapterUid": 55,
         "chapterIdx": 22,
-        "title": "第17章 悲观主义的诱惑",
+        "title": "第十七章",
         "paid": 0,
         "price": -1,
-        "level": 1,
-        "updateTime": 1689561939,
-        "wordCount": 7112,
+        "level": 2,
+        "updateTime": 1682275204,
+        "wordCount": 9618,
         "anchors": []
       },
       {
-        "chapterUid": 23,
+        "chapterUid": 56,
         "chapterIdx": 23,
-        "title": "第18章 当你相信一切的时候",
+        "title": "第十八章",
         "paid": 0,
         "price": -1,
-        "level": 1,
-        "updateTime": 1689561939,
-        "wordCount": 7006,
+        "level": 2,
+        "updateTime": 1682275204,
+        "wordCount": 8482,
         "anchors": []
       },
       {
-        "chapterUid": 24,
+        "chapterUid": 57,
         "chapterIdx": 24,
-        "title": "第19章 总结",
+        "title": "第十九章",
         "paid": 0,
         "price": -1,
-        "level": 1,
-        "updateTime": 1689561939,
-        "wordCount": 3019,
+        "level": 2,
+        "updateTime": 1682275204,
+        "wordCount": 7462,
         "anchors": []
       },
       {
-        "chapterUid": 25,
+        "chapterUid": 58,
         "chapterIdx": 25,
-        "title": "第20章 我的理财方案",
+        "title": "第二十章",
         "paid": 0,
         "price": -1,
-        "level": 1,
-        "updateTime": 1689561939,
-        "wordCount": 4879,
+        "level": 2,
+        "updateTime": 1682275204,
+        "wordCount": 5070,
         "anchors": []
       },
       {
-        "chapterUid": 26,
+        "chapterUid": 59,
         "chapterIdx": 26,
-        "title": "附录 美国消费者心态形成简史",
+        "title": "第二十一章",
         "paid": 0,
         "price": -1,
-        "level": 1,
-        "updateTime": 1689561939,
-        "wordCount": 10342,
+        "level": 2,
+        "updateTime": 1682275204,
+        "wordCount": 4463,
         "anchors": []
       },
       {
-        "chapterUid": 27,
+        "chapterUid": 60,
         "chapterIdx": 27,
-        "title": "致谢",
+        "title": "第二十二章",
         "paid": 0,
         "price": -1,
-        "level": 1,
-        "updateTime": 1689561939,
-        "wordCount": 253,
+        "level": 2,
+        "updateTime": 1682275204,
+        "wordCount": 4047,
+        "anchors": []
+      },
+      {
+        "chapterUid": 61,
+        "chapterIdx": 28,
+        "title": "第二十三章",
+        "paid": 0,
+        "price": -1,
+        "level": 2,
+        "updateTime": 1682275204,
+        "wordCount": 8587,
+        "anchors": []
+      },
+      {
+        "chapterUid": 62,
+        "chapterIdx": 29,
+        "title": "第二十四章",
+        "paid": 0,
+        "price": -1,
+        "level": 2,
+        "updateTime": 1682275204,
+        "wordCount": 8433,
+        "anchors": []
+      },
+      {
+        "chapterUid": 63,
+        "chapterIdx": 30,
+        "title": "第二十五章",
+        "paid": 0,
+        "price": -1,
+        "level": 2,
+        "updateTime": 1682275204,
+        "wordCount": 2978,
+        "anchors": []
+      },
+      {
+        "chapterUid": 64,
+        "chapterIdx": 31,
+        "title": "第二十六章",
+        "paid": 0,
+        "price": -1,
+        "level": 2,
+        "updateTime": 1682275204,
+        "wordCount": 4747,
+        "anchors": []
+      },
+      {
+        "chapterUid": 65,
+        "chapterIdx": 32,
+        "title": "第二十七章",
+        "paid": 0,
+        "price": -1,
+        "level": 2,
+        "updateTime": 1682275204,
+        "wordCount": 5215,
+        "anchors": []
+      },
+      {
+        "chapterUid": 66,
+        "chapterIdx": 33,
+        "title": "第二十八章",
+        "paid": 0,
+        "price": -1,
+        "level": 2,
+        "updateTime": 1682275204,
+        "wordCount": 10037,
+        "anchors": []
+      },
+      {
+        "chapterUid": 67,
+        "chapterIdx": 34,
+        "title": "第二十九章",
+        "paid": 0,
+        "price": -1,
+        "level": 2,
+        "updateTime": 1682275204,
+        "wordCount": 3262,
+        "anchors": []
+      },
+      {
+        "chapterUid": 68,
+        "chapterIdx": 35,
+        "title": "第三十章",
+        "paid": 0,
+        "price": -1,
+        "level": 2,
+        "updateTime": 1682275204,
+        "wordCount": 4886,
+        "anchors": []
+      },
+      {
+        "chapterUid": 69,
+        "chapterIdx": 36,
+        "title": "第三十一章",
+        "paid": 0,
+        "price": -1,
+        "level": 2,
+        "updateTime": 1682275204,
+        "wordCount": 3425,
         "anchors": []
       }
     ],
@@ -644,14 +750,14 @@
     "lastProgressPayload": {},
     "sameProgressPayloadCount": 0,
     "currentChapter": {
-      "chapterUid": 2,
+      "chapterUid": 35,
       "chapterIdx": 2,
       "title": "版权信息",
       "paid": 0,
       "price": 0,
       "level": 1,
-      "updateTime": 1689564873,
-      "wordCount": 148,
+      "updateTime": 1682275204,
+      "wordCount": 153,
       "anchors": []
     },
     "currentSectionIdx": 0,
@@ -685,7 +791,7 @@
       "AndroidPaid": 0,
       "AndroidGift": 0
     },
-    "psvts": "a2c324207a1255a0g011273",
+    "psvts": "1aa323107a154014g018173",
     "pclts": 0,
     "isBookForbidden": false,
     "pdfUrl": "",
@@ -697,7 +803,7 @@
       "checked": false,
       "showBubble": false
     },
-    "relatedAlbum": ""
+    "relatedAlbum": "3110070490"
   },
   "book": {},
   "bookReview": {
